@@ -11,7 +11,7 @@ More details and a documented process can be found in
 * Git clone all the stuff somewhere
 * Copy `Rockstar.bundle` into your `/Library/Keyboard Layouts` folder (create if it is missing)
 * Sign out, Sign in
-* Go to the keyboard preferences and add the `Rockstar` layout
+* Go to the keyboard preferences and add the `Halmak` layout
 * Ask here in issues if nothing works
 
 ## Copyright & License
