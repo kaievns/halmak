@@ -53,10 +53,17 @@ it sound nicer. Or is it!?...
 ## Installation
 
 * Git clone all the stuff somewhere
-* Copy `Rockstar.bundle` into your `/Library/Keyboard Layouts` folder (create if it is missing)
+* Copy `Halmak.bundle` into your `/Library/Keyboard Layouts` folder (create if it is missing)
 * Sign out, Sign in
 * Go to the keyboard preferences and add the `Halmak` layout
 * Ask here in issues if nothing works
+
+## Learning
+
+There is an unofficial support module for the [TypeFu app](http://type-fu.com)
+that provides support for the `Halmak` layout:
+
+[halmak-typefu](https://github.com/MadRabbit/halmak-typefu)
 
 ## Copyright & License
 
