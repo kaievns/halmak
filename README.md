@@ -37,8 +37,8 @@ In terms of traveling distances:
 * `Cokemak` - `-91.5%`
 * `Halmak` - `-92.4%`
 
-__NOTE__: all results were created by using a collection of articles from various
-online media as a fair and diverse representation of modern written English.
+Please refer to [this article](http://nikolay.rocks/2016-04-02-meet-halmak)
+for the more detailed breakdown of the results.
 
 All scripts are opensourced and can be verified in the
 [keyboard-gentics](https://github.com/MadRabbit/keyboard-genetics) repository.
