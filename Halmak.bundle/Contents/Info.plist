@@ -15,12 +15,5 @@
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
-	<key>KLInfo_Halmak-P</key>
-	<dict>
-		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.halmak.halmak-p</string>
-		<key>TISIntendedLanguage</key>
-		<string>en</string>
-	</dict>
 </dict>
 </plist>
