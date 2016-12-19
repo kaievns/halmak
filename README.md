@@ -9,35 +9,25 @@ More details and a documented process can be found in
 
 ## Features
 
-* Maximal possible typing efficiency (including a very low traveling distance)
+* Build based on the real world hand movements analysis
+* Nearly maximal possible typing efficiency
+* Very low overall fingers movement distance
+* Very low same finger / same hand usage overheads
+* Very low overall horizontal hands movement
 * Highly symmetrical design that accounts for individual fingers strength
-* Has letters `ZXCV` and `S` in their original positions
-
-This package also contains the programmers oriented `Halmak-P` layout that features:
-
-* Flipped numbers and symbols in the top row, for easier access to the special characters
-* Flipped `[]` and `{}` registers for easier access to the curly brackets
-* Flipped `|` and `\` for easier access to the `||` logical operator
+* Designed with the modern, web based English in mind
 
 ## Comparisons
 
 During the research I've identified the following results: in terms of efficiency
 
 * `QWERTY` - `0%` (base line)
-* `Colemak` - `+24.4%`
-* `Dvorak` - `+24.6%`
-* `Workman` - `+27.7%`
-* `Halmak` - `+34.6%`
+* `Dvorak` - `+77%`
+* `Colemak` - `+84%`
+* `Workman` - `+101%`
+* `Halmak` - `+134%`
 
-In terms of traveling distances:
-
-* `QWERTY` - `0%` (base line)
-* `Dvorak` - `-74.7%`
-* `Workman` - `-87.8%`
-* `Cokemak` - `-91.5%`
-* `Halmak` - `-92.4%`
-
-Please refer to [this article](http://nikolay.rocks/2016-04-02-meet-halmak)
+Please refer to [this article](http://nikolay.rocks/2016-12-20-the-halmak-reborn)
 for the more detailed breakdown of the results.
 
 All scripts are opensourced and can be verified in the
