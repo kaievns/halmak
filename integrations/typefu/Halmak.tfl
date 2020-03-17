@@ -1,0 +1,298 @@
+{
+  "id": "custom-9285c80b-776f-42fb-8f54-e687198de7ce",
+  "name": "Halmak",
+  "description": "https://github.com/MadRabbit/halmak",
+  "version": 1,
+  "keys": {
+    "Digit1": {
+      "default": {
+        "base": "1",
+        "shift": "!"
+      }
+    },
+    "Digit2": {
+      "default": {
+        "base": "2",
+        "shift": "@"
+      }
+    },
+    "Digit3": {
+      "default": {
+        "base": "3",
+        "shift": "#"
+      }
+    },
+    "Digit4": {
+      "default": {
+        "base": "4",
+        "shift": "$"
+      }
+    },
+    "Digit5": {
+      "default": {
+        "base": "5",
+        "shift": "%"
+      }
+    },
+    "Digit6": {
+      "default": {
+        "base": "6",
+        "shift": "^"
+      }
+    },
+    "Digit7": {
+      "default": {
+        "base": "7",
+        "shift": "&"
+      }
+    },
+    "Digit8": {
+      "default": {
+        "base": "8",
+        "shift": "*"
+      }
+    },
+    "Digit9": {
+      "default": {
+        "base": "9",
+        "shift": "("
+      }
+    },
+    "Digit0": {
+      "default": {
+        "base": "0",
+        "shift": ")"
+      }
+    },
+    "KeyA": {
+      "default": {
+        "base": "s",
+        "shift": "S"
+      }
+    },
+    "KeyB": {
+      "default": {
+        "base": "/",
+        "shift": "?"
+      }
+    },
+    "KeyC": {
+      "default": {
+        "base": "v",
+        "shift": "V"
+      }
+    },
+    "KeyD": {
+      "default": {
+        "base": "n",
+        "shift": "N"
+      }
+    },
+    "KeyE": {
+      "default": {
+        "base": "r",
+        "shift": "R"
+      }
+    },
+    "KeyF": {
+      "default": {
+        "base": "t",
+        "shift": "T"
+      }
+    },
+    "KeyG": {
+      "default": {
+        "base": ",",
+        "shift": "<"
+      }
+    },
+    "KeyH": {
+      "default": {
+        "base": ".",
+        "shift": ">"
+      }
+    },
+    "KeyI": {
+      "default": {
+        "base": "u",
+        "shift": "U"
+      }
+    },
+    "KeyJ": {
+      "default": {
+        "base": "a",
+        "shift": "A"
+      }
+    },
+    "KeyK": {
+      "default": {
+        "base": "e",
+        "shift": "E"
+      }
+    },
+    "KeyL": {
+      "default": {
+        "base": "o",
+        "shift": "O"
+      }
+    },
+    "KeyM": {
+      "default": {
+        "base": "p",
+        "shift": "P"
+      }
+    },
+    "KeyN": {
+      "default": {
+        "base": "g",
+        "shift": "G"
+      }
+    },
+    "KeyO": {
+      "default": {
+        "base": "d",
+        "shift": "D"
+      }
+    },
+    "KeyP": {
+      "default": {
+        "base": "j",
+        "shift": "J"
+      }
+    },
+    "KeyQ": {
+      "default": {
+        "base": "w",
+        "shift": "W"
+      }
+    },
+    "KeyR": {
+      "default": {
+        "base": "b",
+        "shift": "B"
+      }
+    },
+    "KeyS": {
+      "default": {
+        "base": "h",
+        "shift": "H"
+      }
+    },
+    "KeyT": {
+      "default": {
+        "base": "z",
+        "shift": "Z"
+      }
+    },
+    "KeyU": {
+      "default": {
+        "base": "q",
+        "shift": "Q"
+      }
+    },
+    "KeyV": {
+      "default": {
+        "base": "c",
+        "shift": "C"
+      }
+    },
+    "KeyW": {
+      "default": {
+        "base": "l",
+        "shift": "L"
+      }
+    },
+    "KeyX": {
+      "default": {
+        "base": "m",
+        "shift": "M"
+      }
+    },
+    "KeyY": {
+      "default": {
+        "base": ";",
+        "shift": ":"
+      }
+    },
+    "KeyZ": {
+      "default": {
+        "base": "f",
+        "shift": "F"
+      }
+    },
+    "Minus": {
+      "default": {
+        "base": "-",
+        "shift": "_"
+      }
+    },
+    "Equal": {
+      "default": {
+        "base": "=",
+        "shift": "+"
+      }
+    },
+    "BracketLeft": {
+      "default": {
+        "base": "[",
+        "shift": "{"
+      }
+    },
+    "BracketRight": {
+      "default": {
+        "base": "]",
+        "shift": "}"
+      }
+    },
+    "Backslash": {
+      "default": {
+        "base": "\\",
+        "shift": "|"
+      }
+    },
+    "IntlBackslash": {
+      "default": {}
+    },
+    "Semicolon": {
+      "default": {
+        "base": "i",
+        "shift": "I"
+      }
+    },
+    "Backquote": {
+      "default": {
+        "base": "`",
+        "shift": "~"
+      }
+    },
+    "Quote": {
+      "default": {
+        "base": "'",
+        "shift": "\""
+      }
+    },
+    "Comma": {
+      "default": {
+        "base": "x",
+        "shift": "X"
+      }
+    },
+    "Period": {
+      "default": {
+        "base": "k",
+        "shift": "K"
+      }
+    },
+    "Slash": {
+      "default": {
+        "base": "y",
+        "shift": "Y"
+      }
+    },
+    "Space": {
+      "default": {
+        "base": " "
+      }
+    }
+  }
+}
