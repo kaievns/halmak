@@ -60,6 +60,8 @@ To enable native key mapping for Halmak on your [Kinesis Advantage 2](https://ki
 1. Open Disk Utility, right click on the drive, select Eject (must be eject, as unmount does not write the file)
 1. <kbd>Program</kbd>+<kbd>F3</kbd> to enable QWERTY, then <kbd>Program</kbd>+<kbd>1</kbd> to enable our Halmak modification of QWERTY
 
+Refer to the [Kinesis Advantage 2 support page](https://kinesis-ergo.com/support/advantage2/) for assistance.
+
 ### Type Fu
 
 To learn Halmak, we have an integration for [Type Fu](http://type-fu.com).
