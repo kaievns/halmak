@@ -54,9 +54,10 @@ it sound nicer. Or is it!?...
 
 To enable native key mapping for Halmak on your [Kinesis Advantage 2](https://kinesis-ergo.com/shop/advantage2/)
 
+1. [Download our `1_qwerty.txt` file](https://raw.githubusercontent.com/MadRabbit/halmak/master/integrations/kinesis/1_qwerty.txt)
 1. <kbd>Program</kbd>+<kbd>Shift</kbd>+<kbd>Escape</kbd> to enable power user mode (should see 4 LED flashes)
 1. <kbd>Program</kbd>+<kbd>F1</kbd> to mount to the keyboard as a drive (should see a few flashes)
-1. Drag the file into `ADVANTAGE2` / `active`
+1. Drag the downloaded `1_qwerty.txt` file into `ADVANTAGE2` / `active`
 1. Open Disk Utility, right click on the drive, select Eject (must be eject, as unmount does not write the file)
 1. <kbd>Program</kbd>+<kbd>F3</kbd> to enable QWERTY, then <kbd>Program</kbd>+<kbd>1</kbd> to enable our Halmak modification of QWERTY
 
@@ -66,7 +67,7 @@ Refer to the [Kinesis Advantage 2 support page](https://kinesis-ergo.com/support
 
 To learn Halmak, we have an integration for [Type Fu](http://type-fu.com).
 
-1. [Download our `Halmak.tfl` file](https://raw.githubusercontent.com/balupton/halmak/master/integrations/typefu/Halmak.tfl)
+1. [Download our `Halmak.tfl` file](https://raw.githubusercontent.com/MadRabbit/halmak/master/integrations/typefu/Halmak.tfl)
 1. Open Type Fu
 1. Preferences
 1. Keyboard
