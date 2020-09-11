@@ -74,6 +74,13 @@ To learn Halmak, we have an integration for [Type Fu](http://type-fu.com).
 1. Import from File
 1. Select the file you downloaded from the first step
 
+### Windows install
+
+Installing is easy with the pre-built installer.
+Just execute setup.exe as follows:
+
+`> halmak\integrations\MSKLC\setup.exe`
+
 ## Copyright & License
 
 Again, I'm not sure if there is a point to this. But I guess it's MIT.
