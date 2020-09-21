@@ -48,6 +48,13 @@ it sound nicer. Or is it!?...
 * Go to the keyboard preferences and add the `Halmak` layout
 * Ask here in issues if nothing works
 
+### Android installation for physical keyboards
+
+1. Install [Extra Physical Keyboard Layouts from the Play Store](https://play.google.com/store/apps/details?id=varzan.extraKeyboardLayouts)  
+Source code is available [on github](https://github.com/varzan/extra-keyboard-layouts)
+1. Connect a physical keyboard to your Android device e.g. via bluetooth or OTG
+1. Select the Halmak layout in your system menu e.g. System > Language and Input > Physical keyboard > *Keyboard Name*
+
 ## Integrations
 
 ### Kinesis Advantage 2
