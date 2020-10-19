@@ -1,0 +1,31 @@
+partial default xkb_types "default" {
+    virtual_modifiers Alt;
+    virtual_modifiers LevelThree;
+
+    type "QWERTY_MOD_SWAP" {
+	    modifiers = Shift+Alt+Mod4+Control+LevelThree;
+
+	    // Qwerty modifiers
+        map[Alt] = Level1;
+        map[Shift+Alt] = Level2;
+        map[Mod4] = Level1;
+        map[Shift+Mod4] = Level2;
+        map[Control] = Level1;
+        map[Shift+Control] = Level2;
+        
+        // Actual layout
+        map[None] = Level3;
+	    map[Shift] = Level4;
+
+        // Extra symbols
+        map[LevelThree] = Level5;
+        map[LevelThree+Shift] = Level6;
+
+	    level_name[Level1] = "Modifier";
+        level_name[Level2] = "Shift+Modifier";
+	    level_name[Level3] = "Base";
+        level_name[Level4] = "Shift";
+        level_name[Level5] = "LevelThree";
+        level_name[Level6] = "LevelThree+Shift";
+    };
+};
