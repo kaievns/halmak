@@ -20,6 +20,11 @@ and have no guarantee that it will keep working. Fucking programmers, man...
 Copy the `symbols` and `types` folders into `/usr/share/X11/xkb`.
 You'll have to overwrite the `types/complete` to make this work.
 
+```
+sudo cp symbols/halmak_no_qwerty /usr/share/X11/xkb/symbols/
+setxkbmap halmak_no_qwerty
+```
+
 After that add `halmak` into the `rules/evdev.xml` wherever you
 want this layout.
 
