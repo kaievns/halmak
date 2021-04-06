@@ -24,3 +24,12 @@ After that add `halmak` into the `rules/evdev.xml` wherever you
 want this layout.
 
 Restart.
+
+## Alternate Install ( without qwerty layer )
+
+This is an alternate install that doesn't add the qwerty control overlay. To install, run:
+
+```
+sudo cp symbols/halmak_no_qwerty /usr/share/X11/xkb/symbols/
+setxkbmap halmak_no_qwerty
+```
