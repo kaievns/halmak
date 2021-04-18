@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 343 on 2021-04-10 at 10:39 (GMT+8)-->
+<!--Last edited by Ukelele version 343 on 2021-04-19 at 05:58 (GMT+8)-->
 <keyboard group="126" id="-7949" name="Halmak" maxout="2">
     <layouts>
         <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
@@ -15,7 +15,6 @@
     <modifierMap id="f4" defaultIndex="7">
         <keyMapSelect mapIndex="0">
             <modifier keys="command?"/>
-            <modifier keys="anyShift? caps? command"/>
         </keyMapSelect>
         <keyMapSelect mapIndex="1">
             <modifier keys="anyShift caps?"/>
@@ -36,9 +35,12 @@
             <modifier keys="caps? anyOption command"/>
         </keyMapSelect>
         <keyMapSelect mapIndex="7">
-            <modifier keys="anyShift caps? option? command? control"/>
-            <modifier keys="shift? caps? anyOption command? control"/>
-            <modifier keys="caps? anyOption? command? control"/>
+            <modifier keys="anyShift caps? anyOption? command? anyControl"/>
+            <modifier keys="caps? anyOption? command? anyControl"/>
+            <modifier keys="anyShift? caps? anyOption command? anyControl"/>
+        </keyMapSelect>
+        <keyMapSelect mapIndex="8">
+            <modifier keys="anyShift? caps? anyOption? command anyControl?"/>
         </keyMapSelect>
     </modifierMap>
     <keyMapSet id="16c">
@@ -49,7 +51,7 @@
             <key code="3" output="t"/>
             <key code="4" output="."/>
             <key code="5" output=","/>
-            <key code="6" output="f"/>
+            <key code="6" output="z"/>
             <key code="7" output="m"/>
             <key code="8" output="v"/>
             <key code="9" output="c"/>
@@ -914,6 +916,112 @@
             <key code="125" output="&#x001F;"/>
             <key code="126" output="&#x001E;"/>
         </keyMap>
+        <keyMap index="8">
+            <key code="0" output="a"/>
+            <key code="1" output="s"/>
+            <key code="2" output="d"/>
+            <key code="3" output="f"/>
+            <key code="4" output="h"/>
+            <key code="5" output="g"/>
+            <key code="6" output="z"/>
+            <key code="7" output="x"/>
+            <key code="8" output="c"/>
+            <key code="9" output="v"/>
+            <key code="10" output=""/>
+            <key code="11" output="b"/>
+            <key code="12" output="q"/>
+            <key code="13" output="w"/>
+            <key code="14" output="e"/>
+            <key code="15" output="r"/>
+            <key code="16" output="y"/>
+            <key code="17" output="t"/>
+            <key code="18" output="1"/>
+            <key code="19" output="2"/>
+            <key code="20" output="3"/>
+            <key code="21" output="4"/>
+            <key code="22" output="6"/>
+            <key code="23" output="5"/>
+            <key code="24" output="="/>
+            <key code="25" output="9"/>
+            <key code="26" output="7"/>
+            <key code="27" output="-"/>
+            <key code="28" output="8"/>
+            <key code="29" output="0"/>
+            <key code="30" output="]"/>
+            <key code="31" output="o"/>
+            <key code="32" output="u"/>
+            <key code="33" output="["/>
+            <key code="34" output="i"/>
+            <key code="35" output="p"/>
+            <key code="36" output="&#x000D;"/>
+            <key code="37" output="l"/>
+            <key code="38" output="j"/>
+            <key code="39" output="&#x0027;"/>
+            <key code="40" output="k"/>
+            <key code="41" output=";"/>
+            <key code="42" output="\"/>
+            <key code="43" output=","/>
+            <key code="44" output="/"/>
+            <key code="45" output="n"/>
+            <key code="46" output="m"/>
+            <key code="47" output="."/>
+            <key code="48" output="&#x0009;"/>
+            <key code="49" output=""/>
+            <key code="50" output="`"/>
+            <key code="51" output="&#x0008;"/>
+            <key code="53" output="&#x001B;"/>
+            <key code="64" output="&#x0010;"/>
+            <key code="65" output=""/>
+            <key code="66" output="&#x001D;"/>
+            <key code="67" output=""/>
+            <key code="69" output=""/>
+            <key code="70" output="&#x001C;"/>
+            <key code="71" output="&#x001B;"/>
+            <key code="72" output="&#x001F;"/>
+            <key code="75" output=""/>
+            <key code="76" output="&#x0003;"/>
+            <key code="77" output="&#x001E;"/>
+            <key code="78" output=""/>
+            <key code="79" output="&#x0010;"/>
+            <key code="80" output="&#x0010;"/>
+            <key code="81" output=""/>
+            <key code="82" output=""/>
+            <key code="83" output=""/>
+            <key code="84" output=""/>
+            <key code="85" output=""/>
+            <key code="86" output=""/>
+            <key code="87" output=""/>
+            <key code="88" output=""/>
+            <key code="89" output=""/>
+            <key code="91" output=""/>
+            <key code="92" output=""/>
+            <key code="96" output="&#x0010;"/>
+            <key code="97" output="&#x0010;"/>
+            <key code="98" output="&#x0010;"/>
+            <key code="99" output="&#x0010;"/>
+            <key code="100" output="&#x0010;"/>
+            <key code="101" output="&#x0010;"/>
+            <key code="103" output="&#x0010;"/>
+            <key code="105" output="&#x0010;"/>
+            <key code="106" output="&#x0010;"/>
+            <key code="107" output="&#x0010;"/>
+            <key code="109" output="&#x0010;"/>
+            <key code="111" output="&#x0010;"/>
+            <key code="113" output="&#x0010;"/>
+            <key code="114" output="&#x0005;"/>
+            <key code="115" output="&#x0001;"/>
+            <key code="116" output="&#x000B;"/>
+            <key code="117" output="&#x007F;"/>
+            <key code="118" output="&#x0010;"/>
+            <key code="119" output="&#x0004;"/>
+            <key code="120" output="&#x0010;"/>
+            <key code="121" output="&#x000C;"/>
+            <key code="122" output="&#x0010;"/>
+            <key code="123" output="&#x001C;"/>
+            <key code="124" output="&#x001D;"/>
+            <key code="125" output="&#x001F;"/>
+            <key code="126" output="&#x001E;"/>
+        </keyMap>
     </keyMapSet>
     <keyMapSet id="984">
         <keyMap index="0" baseMapSet="16c" baseIndex="0">
@@ -994,6 +1102,9 @@
             <key code="95" output=","/>
             <key code="102" action="a5"/>
             <key code="104" action="a5"/>
+        </keyMap>
+        <keyMap index="8" baseMapSet="16c" baseIndex="8">
+            <key code="512" output=""/>
         </keyMap>
     </keyMapSet>
     <actions>
