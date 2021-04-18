@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 343 on 2021-04-19 at 05:58 (GMT+8)-->
+<!--Last edited by Ukelele version 343 on 2021-04-19 at 06:15 (GMT+8)-->
 <keyboard group="126" id="-7949" name="Halmak" maxout="2">
     <layouts>
         <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
@@ -973,28 +973,28 @@
             <key code="64" output="&#x0010;"/>
             <key code="65" output=""/>
             <key code="66" output="&#x001D;"/>
-            <key code="67" output=""/>
-            <key code="69" output=""/>
+            <key code="67" output="*"/>
+            <key code="69" output="+"/>
             <key code="70" output="&#x001C;"/>
             <key code="71" output="&#x001B;"/>
             <key code="72" output="&#x001F;"/>
-            <key code="75" output=""/>
+            <key code="75" output="/"/>
             <key code="76" output="&#x0003;"/>
             <key code="77" output="&#x001E;"/>
-            <key code="78" output=""/>
+            <key code="78" output="-"/>
             <key code="79" output="&#x0010;"/>
             <key code="80" output="&#x0010;"/>
-            <key code="81" output=""/>
-            <key code="82" output=""/>
-            <key code="83" output=""/>
-            <key code="84" output=""/>
-            <key code="85" output=""/>
-            <key code="86" output=""/>
-            <key code="87" output=""/>
-            <key code="88" output=""/>
-            <key code="89" output=""/>
-            <key code="91" output=""/>
-            <key code="92" output=""/>
+            <key code="81" output="="/>
+            <key code="82" output="0"/>
+            <key code="83" output="1"/>
+            <key code="84" output="2"/>
+            <key code="85" output="3"/>
+            <key code="86" output="4"/>
+            <key code="87" output="5"/>
+            <key code="88" output="6"/>
+            <key code="89" output="7"/>
+            <key code="91" output="8"/>
+            <key code="92" output="9"/>
             <key code="96" output="&#x0010;"/>
             <key code="97" output="&#x0010;"/>
             <key code="98" output="&#x0010;"/>
