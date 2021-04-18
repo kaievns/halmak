@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 343 on 2021-04-19 at 06:15 (GMT+8)-->
+<!--Last edited by Ukelele version 343 on 2021-04-19 at 06:36 (GMT+8)-->
 <keyboard group="126" id="-7949" name="Halmak" maxout="2">
     <layouts>
         <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
@@ -51,7 +51,7 @@
             <key code="3" output="t"/>
             <key code="4" output="."/>
             <key code="5" output=","/>
-            <key code="6" output="z"/>
+            <key code="6" output="f"/>
             <key code="7" output="m"/>
             <key code="8" output="v"/>
             <key code="9" output="c"/>
