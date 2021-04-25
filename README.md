@@ -1,7 +1,7 @@
 # Halmak Keyboard Layout
 
 This is an AI designed keyboard layout that was built within the
-[keyboard-gentics](https://github.com/MadRabbit/keyboard-genetics) project.
+[keyboard-genetics][] project.
 More details and a documented process can be found in
 [this blog](http://nikolay.rocks/categories/optimal+keyboard)
 
@@ -27,11 +27,11 @@ During the research I've identified the following results: in terms of efficienc
 * `Workman` - `+101%`
 * `Halmak` - `+134%`
 
-Please refer to [this article](http://nikolay.rocks/2016-12-20-the-halmak-reborn)
+Please refer to the article *[Halmak Reborn][]*
 for the more detailed breakdown of the results.
 
 All scripts are opensourced and can be verified in the
-[keyboard-gentics](https://github.com/MadRabbit/keyboard-genetics) repository.
+[keyboard-genetics][] repository.
 
 ## The Name
 
@@ -87,3 +87,6 @@ To learn Halmak, we have an integration for [Type Fu](http://type-fu.com).
 Again, I'm not sure if there is a point to this. But I guess it's MIT.
 
 Copyright (C) 2016 Nikolay Nemshilov
+
+[keyboard-genetics]: https://github.com/MadRabbit/keyboard-genetics
+[Halmak Reborn]: http://nikolay.rocks/2016-12-20-the-halmak-reborn
