@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 343 on 2021-04-19 at 06:36 (GMT+8)-->
-<keyboard group="126" id="-7949" name="Halmak" maxout="2">
+<!--Last edited by Ukelele version 343 on 2021-05-06 at 20:55 (GMT+8)-->
+<keyboard group="126" id="-9242" name="Halmak" maxout="2">
     <layouts>
         <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
         <layout first="18" last="18" mapSet="984" modifiers="f4"/>
@@ -808,24 +808,24 @@
             <key code="126" output="&#x001E;"/>
         </keyMap>
         <keyMap index="7">
-            <key code="0" output="&#x0001;"/>
-            <key code="1" output="&#x0013;"/>
-            <key code="2" output="&#x0004;"/>
-            <key code="3" output="&#x0006;"/>
-            <key code="4" output="&#x0008;"/>
-            <key code="5" output="&#x0007;"/>
-            <key code="6" output="&#x001A;"/>
-            <key code="7" output="&#x0018;"/>
-            <key code="8" output="&#x0003;"/>
-            <key code="9" output="&#x0016;"/>
+            <key code="0" output="a"/>
+            <key code="1" output="s"/>
+            <key code="2" output="d"/>
+            <key code="3" output="f"/>
+            <key code="4" output="h"/>
+            <key code="5" output="g"/>
+            <key code="6" output="z"/>
+            <key code="7" output="x"/>
+            <key code="8" output="c"/>
+            <key code="9" output="v"/>
             <key code="10" output="0"/>
-            <key code="11" output="&#x0002;"/>
-            <key code="12" output="&#x0011;"/>
-            <key code="13" output="&#x0017;"/>
-            <key code="14" output="&#x0005;"/>
-            <key code="15" output="&#x0012;"/>
-            <key code="16" output="&#x0019;"/>
-            <key code="17" output="&#x0014;"/>
+            <key code="11" output="b"/>
+            <key code="12" output="q"/>
+            <key code="13" output="w"/>
+            <key code="14" output="e"/>
+            <key code="15" output="r"/>
+            <key code="16" output="y"/>
+            <key code="17" output="t"/>
             <key code="18" output="1"/>
             <key code="19" output="2"/>
             <key code="20" output="3"/>
@@ -835,26 +835,26 @@
             <key code="24" output="="/>
             <key code="25" output="9"/>
             <key code="26" output="7"/>
-            <key code="27" output="&#x001F;"/>
+            <key code="27" output="-"/>
             <key code="28" output="8"/>
             <key code="29" output="0"/>
-            <key code="30" output="&#x001D;"/>
-            <key code="31" output="&#x000F;"/>
-            <key code="32" output="&#x0015;"/>
-            <key code="33" output="&#x001B;"/>
-            <key code="34" output="&#x0009;"/>
-            <key code="35" output="&#x0010;"/>
+            <key code="30" output="]"/>
+            <key code="31" output="o"/>
+            <key code="32" output="u"/>
+            <key code="33" output="["/>
+            <key code="34" output="i"/>
+            <key code="35" output="p"/>
             <key code="36" output="&#x000D;"/>
-            <key code="37" output="&#x000C;"/>
-            <key code="38" output="&#x000A;"/>
+            <key code="37" output="l"/>
+            <key code="38" output="j"/>
             <key code="39" output="&#x0027;"/>
-            <key code="40" output="&#x000B;"/>
+            <key code="40" output="k"/>
             <key code="41" output=";"/>
             <key code="42" output="&#x001C;"/>
             <key code="43" output=","/>
             <key code="44" output="/"/>
-            <key code="45" output="&#x000E;"/>
-            <key code="46" output="&#x000D;"/>
+            <key code="45" output="n"/>
+            <key code="46" output="m"/>
             <key code="47" output="."/>
             <key code="48" output="&#x0009;"/>
             <key code="49" action="a5"/>
