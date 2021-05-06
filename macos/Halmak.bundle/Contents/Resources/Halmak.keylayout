@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 343 on 2021-05-06 at 20:55 (GMT+8)-->
-<keyboard group="126" id="-9242" name="Halmak" maxout="2">
+<!--Last edited by Ukelele version 343 on 2021-05-06 at 21:04 (GMT+8)-->
+<keyboard group="126" id="-21223" name="Halmak" maxout="2">
     <layouts>
         <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
         <layout first="18" last="18" mapSet="984" modifiers="f4"/>
@@ -850,7 +850,7 @@
             <key code="39" output="&#x0027;"/>
             <key code="40" output="k"/>
             <key code="41" output=";"/>
-            <key code="42" output="&#x001C;"/>
+            <key code="42" output="\"/>
             <key code="43" output=","/>
             <key code="44" output="/"/>
             <key code="45" output="n"/>
