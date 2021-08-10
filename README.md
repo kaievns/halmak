@@ -1,11 +1,11 @@
 # Halmak Keyboard Layout
 
 This is an AI designed keyboard layout that was built within the
-[keyboard-gentics](https://github.com/MadRabbit/keyboard-genetics) project.
-More details and a documented process can be found in
-[this blog](http://nikolay.rocks/categories/optimal+keyboard)
+[keyboard-genetics] project.
+More details and a documented process can be found on
+the blog *[Nikolay Rocks]*.
 
-![](screenshot.png)
+![Keyboard Layout](screenshot.png)
 
 ## Features
 
@@ -21,17 +21,17 @@ More details and a documented process can be found in
 
 During the research I've identified the following results: in terms of efficiency
 
-* `QWERTY` - `0%` (base line)
+* `QWERTY` - `0%` (baseline)
 * `Dvorak` - `+77%`
 * `Colemak` - `+84%`
 * `Workman` - `+101%`
 * `Halmak` - `+134%`
 
-Please refer to [this article](http://nikolay.rocks/2016-12-20-the-halmak-reborn)
+Please refer to the article *[Halmak Reborn]*
 for the more detailed breakdown of the results.
 
 All scripts are opensourced and can be verified in the
-[keyboard-gentics](https://github.com/MadRabbit/keyboard-genetics) repository.
+[keyboard-genetics] repository.
 
 ## The Name
 
@@ -65,14 +65,14 @@ To enable native key mapping for Halmak on your [Kinesis Advantage 2](https://ki
 1. <kbd>Program</kbd>+<kbd>Shift</kbd>+<kbd>Escape</kbd> to enable power user mode (should see 4 LED flashes)
 1. <kbd>Program</kbd>+<kbd>F1</kbd> to mount to the keyboard as a drive (should see a few flashes)
 1. Drag the downloaded `1_qwerty.txt` file into `ADVANTAGE2` / `active`
-1. Open Disk Utility, right click on the drive, select Eject (must be eject, as unmount does not write the file)
+1. Open Disk Utility, right-click on the drive, select Eject (must be "Eject", as unmount will not write the file)
 1. <kbd>Program</kbd>+<kbd>F3</kbd> to enable QWERTY, then <kbd>Program</kbd>+<kbd>1</kbd> to enable our Halmak modification of QWERTY
 
-Refer to the [Kinesis Advantage 2 support page](https://kinesis-ergo.com/support/advantage2/) for assistance.
+Refer to the [Kinesis Advantage 2 support page] for assistance.
 
 ### Type Fu
 
-To learn Halmak, we have an integration for [Type Fu](http://type-fu.com).
+To learn Halmak, we have an integration for [Type Fu].
 
 1. [Download our `Halmak.tfl` file](https://raw.githubusercontent.com/MadRabbit/halmak/master/integrations/typefu/Halmak.tfl)
 1. Open Type Fu
@@ -87,3 +87,12 @@ To learn Halmak, we have an integration for [Type Fu](http://type-fu.com).
 Again, I'm not sure if there is a point to this. But I guess it's MIT.
 
 Copyright (C) 2016 Nikolay Nemshilov
+
+[keyboard-genetics]: https://github.com/MadRabbit/keyboard-genetics
+[Halmak Reborn]: http://nikolay.rocks/2016-12-20-the-halmak-reborn
+
+[Kinesis Advantage 2 support page]: https://kinesis-ergo.com/support/advantage2/
+
+[Type Fu]: http://type-fu.com
+
+[Nikolay Rocks]: http://nikolay.rocks/categories/optimal+keyboard
