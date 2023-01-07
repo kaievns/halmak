@@ -57,6 +57,43 @@ Source code is available [on github](https://github.com/varzan/extra-keyboard-la
 
 ## Integrations
 
+### Karabiner Elements
+
+To enable virtual key mapping for Halmak on your macOS machine via [Karabiner Elements](https://github.com/pqrs-org/Karabiner-Elements), you can use the following configuration inside your `simple_modifications` section of your `$HOME/.config/karabiner/karabiner.json` file:
+
+``` json
+{ "from": { "key_code": "q" }, "to": [{ "key_code": "w" }] },
+{ "from": { "key_code": "w" }, "to": [{ "key_code": "l" }] },
+{ "from": { "key_code": "e" }, "to": [{ "key_code": "r" }] },
+{ "from": { "key_code": "r" }, "to": [{ "key_code": "b" }] },
+{ "from": { "key_code": "t" }, "to": [{ "key_code": "z" }] },
+{ "from": { "key_code": "y" }, "to": [{ "key_code": "semicolon" }] },
+{ "from": { "key_code": "u" }, "to": [{ "key_code": "q" }] },
+{ "from": { "key_code": "i" }, "to": [{ "key_code": "u" }] },
+{ "from": { "key_code": "o" }, "to": [{ "key_code": "d" }] },
+{ "from": { "key_code": "p" }, "to": [{ "key_code": "j" }] },
+{ "from": { "key_code": "a" }, "to": [{ "key_code": "s" }] },
+{ "from": { "key_code": "s" }, "to": [{ "key_code": "h" }] },
+{ "from": { "key_code": "d" }, "to": [{ "key_code": "n" }] },
+{ "from": { "key_code": "f" }, "to": [{ "key_code": "t" }] },
+{ "from": { "key_code": "g" }, "to": [{ "key_code": "comma" }] },
+{ "from": { "key_code": "h" }, "to": [{ "key_code": "period" }] },
+{ "from": { "key_code": "j" }, "to": [{ "key_code": "a" }] },
+{ "from": { "key_code": "k" }, "to": [{ "key_code": "e" }] },
+{ "from": { "key_code": "l" }, "to": [{ "key_code": "o" }] },
+{ "from": { "key_code": "semicolon" }, "to": [{ "key_code": "i" }] },
+{ "from": { "key_code": "z" }, "to": [{ "key_code": "f" }] },
+{ "from": { "key_code": "x" }, "to": [{ "key_code": "m" }] },
+{ "from": { "key_code": "c" }, "to": [{ "key_code": "v" }] },
+{ "from": { "key_code": "v" }, "to": [{ "key_code": "c" }] },
+{ "from": { "key_code": "b" }, "to": [{ "key_code": "slash" }] },
+{ "from": { "key_code": "n" }, "to": [{ "key_code": "g" }] },
+{ "from": { "key_code": "m" }, "to": [{ "key_code": "p" }] },
+{ "from": { "key_code": "comma" }, "to": [{ "key_code": "x" }] },
+{ "from": { "key_code": "period" }, "to": [{ "key_code": "k" }] },
+{ "from": { "key_code": "slash" }, "to": [{ "key_code": "y" }] }
+```
+
 ### Kinesis Advantage 2
 
 To enable native key mapping for Halmak on your [Kinesis Advantage 2](https://kinesis-ergo.com/shop/advantage2/)
