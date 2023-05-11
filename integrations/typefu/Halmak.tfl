@@ -55,13 +55,13 @@
     "Digit9": {
       "default": {
         "base": "9",
-        "shift": "("
+        "shift": "<"
       }
     },
     "Digit0": {
       "default": {
         "base": "0",
-        "shift": ")"
+        "shift": ">"
       }
     },
     "KeyA": {
@@ -103,13 +103,13 @@
     "KeyG": {
       "default": {
         "base": ",",
-        "shift": "<"
+        "shift": "("
       }
     },
     "KeyH": {
       "default": {
         "base": ".",
-        "shift": ">"
+        "shift": ")"
       }
     },
     "KeyI": {
