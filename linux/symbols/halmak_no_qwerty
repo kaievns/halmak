@@ -2,8 +2,6 @@ default partial alphanumeric_keys
 xkb_symbols "halmak" {
     name[Group1]= "English (Halmak)";
 
-    key.type[group1] = "QWERTY_MOD_SWAP";
-
     // Halmak keys                 Mac specials (RALT)
  
     key <TLDE> {[grave, asciitilde,  dead_grave, dead_horn]};
