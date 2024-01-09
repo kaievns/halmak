@@ -126,7 +126,7 @@ Again, I'm not sure if there is a point to this. But I guess it's MIT.
 Copyright (C) 2016 Nikolay Nemshilov
 
 [keyboard-genetics]: https://github.com/MadRabbit/keyboard-genetics
-[Halmak Reborn]: http://nikolay.rocks/2016-12-20-the-halmak-reborn
+[Halmak Reborn]: https://web.archive.org/web/20220818151548/https://nikolay.rocks/2016-12-20-the-halmak-reborn
 
 [Kinesis Advantage 2 support page]: https://kinesis-ergo.com/support/advantage2/
 
